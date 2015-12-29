@@ -1,0 +1,5 @@
+.gradle/
+*.jar
+build/
+.idea/workspace.xml
+testsvc.iws
